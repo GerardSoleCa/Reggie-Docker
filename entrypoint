@@ -1,0 +1,2 @@
+#!/bin/bash
+forever server.js -p 1234 -d /data
